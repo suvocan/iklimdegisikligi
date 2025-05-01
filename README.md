@@ -4,6 +4,6 @@
 
 **Bota !soru ile ilettiğiniz günlük olayların küresel ısınmaya etki edip etmediğni, ediyorsa da ne yolla, ne kadar etki ettiğni öğrenip bilinçlenebilirsiniz**
 
-
+**(proje türü : discord botu)**
 
 ## MADE BY SAINT
